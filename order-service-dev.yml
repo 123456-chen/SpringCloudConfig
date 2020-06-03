@@ -27,6 +27,6 @@ feign:
   hystrix:
     enabled: true
 test:
-  number: 9000
+  number: 6666
   
   
