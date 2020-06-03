@@ -11,4 +11,4 @@ feign:
   hystrix:
     enabled: true
 test:
-  number: 1000
+  number: 2000
