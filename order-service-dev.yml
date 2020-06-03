@@ -1,5 +1,5 @@
 server:
-  port: 9101
+  port: ${PORT:9101}
 eureka:
   client:
     service-url:
@@ -27,6 +27,6 @@ feign:
   hystrix:
     enabled: true
 test:
-  number: 2000
+  number: 3000
   
   
